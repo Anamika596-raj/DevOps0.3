@@ -1,3 +1,6 @@
 hiii
 
 this is m,y file
+def anu()
+print ("Hello")
+print ("I am Anamika Raj")
